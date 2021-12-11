@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">evaluacion2AAC</string>
+    <string name="app_name">WORDLSOCCER</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">La contraseña debe contener al menos 6 carácteres.</string>
+    <string name="search_title">Search</string>
+    <string name="filter_title">Title</string>
+    <string name="league_title">Titulo</string>
+    <string name="league_descripcion"> Premier League</string>
+
+
 </resources>
